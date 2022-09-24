@@ -1,0 +1,22 @@
+* {
+    
+    text-align: center;
+    background-color: rgb(186, 174, 174);
+  }
+  button {
+    background-color: rgb(51, 102, 168);
+    border-radius: 8px;
+    border: none;
+    color: rgb(251, 246, 246);
+    width: 100px;
+   
+  }
+  #dice {
+    background-color:white;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin: 80px auto;
+    border: 1px solid rgb(10, 10, 10); 
+    font-size:80px;
+  }
